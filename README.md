@@ -75,7 +75,10 @@ generate.py        # 推論用スクリプト
   
 ## 🧪 推論サンプル（generate.py）  
   
-学習済みモデルを使用した推論結果は以下の通りです。  
+学習済みモデルを使用した推論結果は以下の通りです。 
+
+### demo video   
+https://drive.google.com/file/d/1-6tn6dS3C8FD7ldOvTYeuYHn9GdrXLrO/view?usp=sharing  
   
 ---  
   

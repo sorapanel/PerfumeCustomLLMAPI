@@ -18,7 +18,7 @@
   
 ## 📁 File Description
   
-getData.py         # スクレイピングによる香水データ収集  
+getData.py         # 香水データ収集  
 arrangeData.py     # instructions / responses 形式への整形  
 loadModel.py       # モデル学習処理（LoRA + OpenCALM）  
 generate.py        # 推論用スクリプト  
